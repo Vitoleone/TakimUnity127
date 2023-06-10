@@ -5,10 +5,10 @@ Takım Unity 127
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Zülal Yıldız: Scrum Master / Product Owner / Developer
+- Zülal Yıldız: Scrum Master / Developer
 - Meriç Hilal Vatan: Developer
 - Aysel Nisa Azman: Developer
-- Noyan Berkay Aşkın: Developer
+- Noyan Berkay Aşkın: Developer / Product Owner
 - Emir Can Arslan: Aktif Olmayan Üye
 
 ## Ürün İsmi
