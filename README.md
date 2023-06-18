@@ -57,9 +57,8 @@ Tutortail, hayvanlar alemini daha yakından öğrenmek isteyen yediden yetmişe 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+ <img src = "https://github.com/Vitoleone/TakimUnity127/assets/74705281/3eb76044-0cb3-43ee-81f7-82e3ed409267">
+
 - **Sprint Review**: 
 Alınan kararlar: Oyunun teması, oynanış döngüsü, çıkış platformu ve hedef kitlesi belirlendi. 
 
