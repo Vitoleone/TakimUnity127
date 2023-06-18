@@ -51,7 +51,7 @@ Tutortail, hayvanlar alemini daha yakından öğrenmek isteyen yediden yetmişe 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EWciVTAcr-xCrTbHkGJu_XUBXEIsRjCthUrQaQkOzfvXGg?e=JvfL9V)
 
-- **Sprint board update**: Sprint board screenshotları: img<src = "https://github.com/Vitoleone/TakimUnity127/assets/74705281/d7c42261-41d2-4872-93d3-81c67e4e90b7">
+- **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/74705281/d7c42261-41d2-4872-93d3-81c67e4e90b7">
 
 
 
