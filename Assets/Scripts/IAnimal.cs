@@ -5,4 +5,5 @@ using UnityEngine;
 public interface IAnimal
 {
    public void Move();
+   public void Die();
 }
