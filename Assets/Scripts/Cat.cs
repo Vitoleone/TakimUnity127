@@ -12,6 +12,7 @@ public class Cat : MonoBehaviour,IAnimal
     [SerializeField] private float gravityScale;
     private Rigidbody2D myRb;
     private bool isGrounded = true;
+    public bool onLedder = false;
     private Tilemap tile;
 
     private void OnCollisionEnter2D(Collision2D other)
@@ -39,6 +40,11 @@ public class Cat : MonoBehaviour,IAnimal
         {
             Jump();
         }
+
+        if (onLedder || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.W))
+        {
+            Climb();
+        }
     }
 
     public void Move()
@@ -46,10 +52,20 @@ public class Cat : MonoBehaviour,IAnimal
         
         myRb.AddForce(Vector2.right * (moveSpeed * Input.GetAxis("Horizontal")),ForceMode2D.Force);
     }
-
+    public void Climb()
+    {
+        myRb.AddForce(Vector2.up * (moveSpeed * Input.GetAxis("Vertical")),ForceMode2D.Force);
+    }
     public void Die()
     {
+        GameManager.instance.isPlayerAlive = false;
+        GameManager.instance.playerDie?.Invoke();
         Destroy(gameObject);
+    }
+
+    public void GetScore(int value)
+    {
+        throw new NotImplementedException();
     }
 
     public void Jump()

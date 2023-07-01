@@ -6,4 +6,5 @@ public interface IAnimal
 {
    public void Move();
    public void Die();
+   public void GetScore(int value);
 }
