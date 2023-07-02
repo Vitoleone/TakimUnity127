@@ -81,7 +81,7 @@ Alınan kararlar: Oyunun teması, oynanış döngüsü, çıkış platformu ve h
   -İletişim kanalı olarak kullandığımız Whatsapp uygulaması üzerinden projeyle ilgili güncellemler paylaşıldı. Güncellemeler ve proje hakkında sorular aktif olarak whatsapp grubumuzda tartışılıyor. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir:
 https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EV_uaghpD9RLpd-F1-qdzP8Bbh-SgI442LX_GRL6X972xQ?e=ODdUMt
 
-- **Sprint board update**: Sprint board screenshotları: <img src="https://www.hizliresim.com/jmbwziz">
+- **Sprint board update**: Sprint board screenshotları:
 
   
 - **Ürün Durumu**: Ekran görüntüleri:
