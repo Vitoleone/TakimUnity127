@@ -78,10 +78,10 @@ Alınan kararlar: Oyunun teması, oynanış döngüsü, çıkış platformu ve h
 
 
 - **Scrum Daily Toplantıları**:
-  -İletişim kanalı olarak kullandığımız Whatsapp uygulaması üzerinden projeyle ilgili güncellemler paylaşıldı. Güncellemeler ve proje hakkında sorular aktif olarak whatsapp grubumuzda tartışılıyor. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir:
+  -İletişim kanalı olarak kullandığımız Whatsapp uygulaması üzerinden projeyle ilgili güncellemler paylaşıldı. Güncellemeler ve proje hakkında sorular aktif olarak whatsapp grubumuzda tartışılıyor. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: 
 https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EV_uaghpD9RLpd-F1-qdzP8Bbh-SgI442LX_GRL6X972xQ?e=ODdUMt
 
-- **Sprint board update**: Sprint board screenshotları:
+- **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/5667b67c-eeda-4338-a660-5bbf0aa97d34">
 
   
 - **Ürün Durumu**: Ekran görüntüleri:
@@ -102,3 +102,4 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 [Unity Team 127 Miro Backlog Board](https://miro.com/app/board/uXjVM_iTyP4=/)
 
 ---
+"
