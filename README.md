@@ -73,10 +73,12 @@ Alınan kararlar: Oyunun teması, oynanış döngüsü, çıkış platformu ve h
 -**Sprint içinde tamamlanması tahmin edilen puan**: 110 Puan
 
 
-- **Puan tamamlama mantığı**: 2.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 110'dur.
+- **Puan tamamlama mantığı**:
+  -2.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 110'dur.
 
 
-- **Scrum Daily Toplantıları**: İletişim kanalı olarak kullandığımız Whatsapp uygulaması üzerinden projeyle ilgili güncellemler paylaşıldı. Güncellemeler ve proje hakkında sorular aktif olarak whatsapp grubumuzda tartışılıyor. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir:
+- **Scrum Daily Toplantıları**:
+  -İletişim kanalı olarak kullandığımız Whatsapp uygulaması üzerinden projeyle ilgili güncellemler paylaşıldı. Güncellemeler ve proje hakkında sorular aktif olarak whatsapp grubumuzda tartışılıyor. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir:
 https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EV_uaghpD9RLpd-F1-qdzP8Bbh-SgI442LX_GRL6X972xQ?e=ODdUMt
 
 - **Sprint board update**: Sprint board screenshotları:
@@ -84,10 +86,11 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
   
 - **Ürün Durumu**: Ekran görüntüleri:
 
-- **Sprint Review**: *Asset temalarının belirlenmesinin ardından seçilenler assetler projeye eklendi.
-                     *Platform bölümü tasarlandı ve platform bölümü karakter scriptleri yazıldı.
-                     *Oyun giriş ekranı, oyun içi menü ve bölüm seçme sahneleri üzerinde çalışılıyor.
-                     *Platform bölümü için karakter hareketi ve oyun döngüsüne yeni başlanıldı.
+- **Sprint Review**:
+  -Asset temalarının belirlenmesinin ardından seçilenler assetler projeye eklendi.
+  -Platform bölümü tasarlandı ve platform bölümü karakter scriptleri yazıldı.
+  -Oyun giriş ekranı, oyun içi menü ve bölüm seçme sahneleri üzerinde çalışılıyor.
+  -Platform bölümü için karakter hareketi ve oyun döngüsüne yeni başlanıldı.
 
 - **Sprint Retrospective:**
   - 2.Sprint sürecinde içinde bulunduğumuz bayram tatili dolayısıyla atadığımız bazı görevler yetişmemiştir.
