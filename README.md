@@ -84,7 +84,7 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 - **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/5667b67c-eeda-4338-a660-5bbf0aa97d34">
 
   
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/f1a478ba-1e7f-491c-8b83-d2ff487542e3">
 
 - **Sprint Review**:
   -Asset temalarının belirlenmesinin ardından seçilenler assetler projeye eklendi.
