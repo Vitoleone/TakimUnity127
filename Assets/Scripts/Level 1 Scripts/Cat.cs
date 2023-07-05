@@ -79,7 +79,7 @@ public class Cat : MonoBehaviour,IAnimal
     {
         
         GameManager.instance.isPlayerAlive = false;
-        GameManager.instance.playerDie?.Invoke();
+        GameManager.instance.catDie?.Invoke();
         Destroy(gameObject);
     }
 
@@ -94,5 +94,10 @@ public class Cat : MonoBehaviour,IAnimal
         myRb.gravityScale = gravityScale;
         jumpPower = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * myRb.gravityScale * -2) * myRb.mass);
         myRb.AddForce(Vector2.up * ((jumpPower) * Input.GetAxis("Jump")),ForceMode2D.Impulse);
+    }
+
+    public void LevelEnd()
+    {
+        UIManager.instance.onGameEnd?.Invoke();
     }
 }

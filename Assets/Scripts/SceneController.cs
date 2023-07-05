@@ -24,7 +24,24 @@ public class SceneController : MonoBehaviour
 
     public void NextLevel()
     {
-        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+        if (SceneManager.sceneCount-1 < SceneManager.GetActiveScene().buildIndex + 1)
+        {
+            SceneManager.LoadSceneAsync("MainMenu");
+        }
+        else
+        {
+            SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
+        }
+        
+    }
+
+    public void TryAgain()
+    {
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
+    }
+    public void MainMenu()
+    {
+        SceneManager.LoadSceneAsync("MainMenu");
     }
 
     public void LoadScene(string sceneName)
