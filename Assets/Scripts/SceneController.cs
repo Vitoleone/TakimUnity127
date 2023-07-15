@@ -3,24 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-//Müziðin her sahnede oynamaya devam etmesi için Game Manager game object içine eklenecek script. Game Manager child olarak Audio Manageri alacak
+// Game Manager game object içine eklenecek script. Game Manager child olarak Audio Manageri alacak
 
 public class SceneController : MonoBehaviour
 {
     public static SceneController instance;
 
-    private void Awake()
-    {
-        if (instance == null)
-        {
-            instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
+   
 
     public void NextLevel()
     {
