@@ -125,16 +125,16 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 
  
  - **Sprint Review**:
-  *Oyuniçi müzikler tamamlandı.
-  *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
-  *Bazı animasyon eklemeleri yapıldı.
+   - Oyuniçi müzikler tamamlandı.
+   - Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
+   - Bazı animasyon eklemeleri yapıldı.
  
  
   
 
- - **Sprint Retrospective:**
-  *Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
-  *Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
+ - **Sprint Retrospective**:
+   - Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
+   - Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
 
 
 
