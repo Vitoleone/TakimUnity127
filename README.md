@@ -108,26 +108,26 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 
 
 - **Puan tamamlama mantığı**:
-  *3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
+  -*3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
 
 
 - **Scrum Daily Toplantıları**:
-  *Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
+  -*Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
 
 
 
-- **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/5667b67c-eeda-4338-a660-5bbf0aa97d34">
+- **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/d1f48038-6b8f-482b-9bd7-b472dcb9750d">
                                                        
 
   
 - **Ürün Durumu**: Ekran görüntüleri:
- *<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
+ -*<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
 
  
 - **Sprint Review**:
-  *Oyuniçi müzikler tamamlandı.
-  *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
-  *Bazı animasyon eklemeleri yapıldı.
+ - *Oyuniçi müzikler tamamlandı.
+ - *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
+ - *Bazı animasyon eklemeleri yapıldı.
  
  
   
