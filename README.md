@@ -124,7 +124,7 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
   <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
 
  
- **Sprint Review**:
+ - **Sprint Review**:
   *Oyuniçi müzikler tamamlandı.
   *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
   *Bazı animasyon eklemeleri yapıldı.
@@ -132,7 +132,7 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
  
   
 
- **Sprint Retrospective:**
+ - **Sprint Retrospective:**
   *Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
   *Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
 
