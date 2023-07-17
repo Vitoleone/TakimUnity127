@@ -17,6 +17,14 @@ public class Cat : MonoBehaviour,IAnimal
     public bool isGrounded = true;
     public bool onLedder = false;
     private Tilemap tile;
+    private AudioSource mysource;
+
+    private void Start()
+    {
+        mysource = GetComponent<AudioSource>();
+    }
+
+
     private void Awake()
     {
         myRb = GetComponent<Rigidbody2D>();
@@ -95,6 +103,7 @@ public class Cat : MonoBehaviour,IAnimal
         myRb.gravityScale = gravityScale;
         jumpPower = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * myRb.gravityScale * -2) * myRb.mass);
         myRb.AddForce(Vector2.up * ((jumpPower) * Input.GetAxis("Jump")),ForceMode2D.Impulse);
+        mysource.Play();
     }
 
     public void LevelEnd()
