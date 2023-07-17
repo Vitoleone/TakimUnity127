@@ -107,12 +107,12 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
 
-- **Puan tamamlama mantığı**:
-  -*3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
+ **Puan tamamlama mantığı**:
+  -3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
 
 
-- **Scrum Daily Toplantıları**:
-  -*Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
+ **Scrum Daily Toplantıları**:
+  -Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
 
 
 
@@ -120,21 +120,21 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
                                                        
 
   
-- **Ürün Durumu**: Ekran görüntüleri:
- -*<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
+  **Ürün Durumu**: Ekran görüntüleri:
+  <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
 
  
-- **Sprint Review**:
- - *Oyuniçi müzikler tamamlandı.
- - *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
- - *Bazı animasyon eklemeleri yapıldı.
+ **Sprint Review**:
+  -Oyuniçi müzikler tamamlandı.
+  -Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
+  -Bazı animasyon eklemeleri yapıldı.
  
  
   
 
-- **Sprint Retrospective:**
-  *Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
-  *Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
+ **Sprint Retrospective:**
+  -Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
+  -Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
 
 
 
