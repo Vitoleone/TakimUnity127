@@ -13,12 +13,14 @@ public class SceneController : MonoBehaviour
 
     public void NextLevel()
     {
-        if (SceneManager.sceneCount-1 < SceneManager.GetActiveScene().buildIndex + 1)
+        if (SceneManager.sceneCountInBuildSettings-1 < SceneManager.GetActiveScene().buildIndex + 1)
         {
-            SceneManager.LoadSceneAsync("MainMenu");
+            PlayerPrefs.SetInt("CurrentLevel",SceneManager.GetActiveScene().buildIndex+1);
+            MainMenu();
         }
         else
         {
+            PlayerPrefs.SetInt("CurrentLevel",SceneManager.GetActiveScene().buildIndex+1);
             SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
         }
         
@@ -30,7 +32,7 @@ public class SceneController : MonoBehaviour
     }
     public void MainMenu()
     {
-        SceneManager.LoadSceneAsync("MainMenu");
+        LoadScene("MainMenu");
     }
 
     public void LoadScene(string sceneName)

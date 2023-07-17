@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.Tilemaps;
 
 public class Cat : MonoBehaviour,IAnimal
@@ -99,5 +100,6 @@ public class Cat : MonoBehaviour,IAnimal
     public void LevelEnd()
     {
         UIManager.instance.onGameEnd?.Invoke();
+        PlayerPrefs.SetInt("CurrentLevel",SceneManager.GetActiveScene().buildIndex+1);
     }
 }

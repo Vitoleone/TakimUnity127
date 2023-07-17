@@ -1,29 +1,33 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class LevelMenu : MonoBehaviour
 {
-    public Button[] buttons;
+    private int currentLevel;
+    [SerializeField] LevelButton[] levels;
 
     private void Awake()
     {
-        int unlockedLevel = PlayerPrefs.GetInt("UnlockedLevel", 1);
-        for (int i = 0; i < buttons.Length; i++)
-        {
-            buttons[i].interactable = false;
-        }
-        for (int i = 0; i < unlockedLevel; i++)
-        {
-            buttons[i].interactable = true;
-        }
+        levels = GetComponentsInChildren<LevelButton>().ToArray();
+        currentLevel = PlayerPrefs.GetInt("CurrentLevel", 1);
+        UnlockLevels();
     }
 
-    public void OpenLevel(int levelId)
+    public void OpenLevel()
     {
-        string levelName = "Level" + levelId;
-        SceneManager.LoadScene(levelName);
+        SceneManager.LoadScene("Level"+currentLevel);
+    }
+
+    public void UnlockLevels()
+    {
+        for (int i = 0; i < currentLevel; i++)
+        {
+            levels[i].UnlockLevel();
+        }
+        
     }
 }
