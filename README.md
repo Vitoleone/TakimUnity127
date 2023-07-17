@@ -43,10 +43,10 @@ Tutortail, hayvanlar alemini daha yakından öğrenmek isteyen yediden yetmişe 
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 90 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 80 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 260 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en az 80 ile başlaması gerektiğine karar verildi.
 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 240 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi. [Sprint 1 Daily Scrum Chats](https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EWciVTAcr-xCrTbHkGJu_XUBXEIsRjCthUrQaQkOzfvXGg?e=JvfL9V)
@@ -87,7 +87,7 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
   
 - **Ürün Durumu**: Ekran görüntüleri:
  *<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/f1a478ba-1e7f-491c-8b83-d2ff487542e3">
- *<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
+
 
  
 - **Sprint Review**:
@@ -102,7 +102,45 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
   * 2.Sprint sürecinde içinde bulunduğumuz bayram tatili dolayısıyla atadığımız bazı görevler yetişmemiştir.
   * * Takımın müsait olduğu 3-10 Temmuz tarhileri arasında daha yoğun bir tempoyla projenin kabaca bitirilmesi planlanmıştır.
 
-    
+# Sprint 3
+
+**Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
+
+
+- **Puan tamamlama mantığı**:
+  *3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
+
+
+- **Scrum Daily Toplantıları**:
+  *Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
+
+
+
+- **Sprint board update**: Sprint board screenshotları: <img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/5667b67c-eeda-4338-a660-5bbf0aa97d34">
+                                                       
+
+  
+- **Ürün Durumu**: Ekran görüntüleri:
+ *<img src = "https://github.com/Vitoleone/TakimUnity127/assets/136193370/36d13bcf-516e-4985-9a86-f32f94d51ada">
+
+ 
+- **Sprint Review**:
+  *Oyuniçi müzikler tamamlandı.
+  *Oyuniçi kullanıcı arayüzlerine bazı eklemeler yapıldı.
+  *Bazı animasyon eklemeleri yapıldı.
+ 
+ 
+  
+
+- **Sprint Retrospective:**
+  *Takım ruhuyla çalışmanın etkisiyle görevler yardımlaşmayla tamamlanmaya çalışıldı.
+  *Proje teslimine kalan son günlerde ekibin daha çok çalışması kararlaştırıldı.
+
+
+
+
+
+   
 ## Product Backlog URL
 
 [Unity Team 127 Miro Backlog Board](https://miro.com/app/board/uXjVM_iTyP4=/)
