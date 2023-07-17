@@ -107,12 +107,12 @@ https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_t
 **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
 
- **Puan tamamlama mantığı**:
+ - **Puan tamamlama mantığı**:
   -3.Sprint dahilinde 2 haftalık süremiz boyunca backlog görevlerimizin toplam puan değeri 70'dir.
 
 
- **Scrum Daily Toplantıları**:
-  -Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
+ - **Scrum Daily Toplantıları**:
+  - Ekip üyelerimizin görevleri birbirleriyle kesişmeyecek şekilde atandığından görevlerimiz hızlıca tamamlandı. Oyun incelendiğinde takım arkadaşlarımızın değiştirilmesini istediği noktalar üzerinde sohbet kanalımız Whatsapp üzerinde tartışıldı. Sohbetlerimizin bir kısmı ilgili dosyada gösterilmiştir: https://karatay-my.sharepoint.com/:w:/g/personal/221450027_ogrenci_karatay_edu_tr/EXUKfEN1yXtNlUYBWXnxwDsB9sehhYZPa-x3kbY9o5IhnA?e=6r8YM2
 
 
 
